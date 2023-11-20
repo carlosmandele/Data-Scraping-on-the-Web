@@ -1,15 +1,29 @@
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
-
 # Data Scraping on the Web
 
-## Implementing a web data collection pipeline with Python.
-This project was developed during my training in Data Scientist in the undergraduate/bachelor's degree program in Data Science at the Virtual University of the State of São Paulo and aims to build a data collection pipeline on the web using the Python programming language.
-
-* **Note**: Project developed in 2021, however has been updated for versioning.
-## **Caution**!
-This project is a small demonstration of data collection on the web for research and/or educational purposes.
+### Implementação de um pipeline de coleta de dados na web com Python.
 
 #
-The Web stores vast amounts of data useful for research. It is an important source of data that is largely responsible for advancing data science and artificial intelligence. Scraping consists of an application capable of requesting a web server, requesting data, analyzing and extracting the necessary information. Web scraping activity is usually an alternative when there are no other ways (e.g. an API) to mine data needed by a project. However, in most cases it is also the practice of speeding up a process that was previously done manually. On the other hand, often public databases are not available to be consumed, however the information is available through access to Web pages and Scraping works very well for this type of proposal.
+### Inspiração & Direitos de autor
+Projeto desenvolvido durante minhas de fundamentos de Ciência de Dados (Introdução a Ciência de Dados) na Universidade Virtual do Estado de São Paulo e tem como objetivo construir um pipeline de coleta de dados na web utilizando a linguagem de programação Python.
+
+##### Copyright (c) 2021, Carlos MANDELE
+Este projeto está licenciado sob uma <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
+## **Atenção**!
+Este projeto é uma pequena demonstração da recolha de dados na web para fins de investigação e/ou educativos.
+
+#
+A Web armazena grandes quantidades de dados úteis para pesquisa. É uma importante fonte de dados que é em grande parte responsável pelo avanço da ciência de dados e da inteligência artificial [1]. Scraping consiste em uma aplicação capaz de solicitar um servidor web, solicitar dados, analisar e extrair as informações necessárias. A atividade de raspagem da Web geralmente é uma alternativa quando não há outras maneiras (por exemplo, uma API) de extrair dados necessários para um projeto. No entanto, na maioria dos casos é também a prática de acelerar um processo que antes era feito manualmente. Por outro lado, muitas vezes as bases de dados públicas não estão disponíveis para serem consumidas, no entanto a informação está disponível através do acesso a páginas Web e é aqui onde entra o Scraping [2].
 * ## **Warning**
-When practicing Web Scraping always remember to observe data protection laws, as not all data that is public can be consumed and used.
+Ao praticar o Web Scraping lembre-se sempre de observar as leis de proteção de dados, pois nem todos os dados que são públicos podem ser consumidos e utilizados.
+#
+## Referências:
+
+[1]  <a href="" target='_blank'></a>
+
+[2] <a href="" target='_blank'></a>
+
+
+
+#
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />
